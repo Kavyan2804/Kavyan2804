@@ -1,4 +1,4 @@
-# 💫 Hi , My Name is Kavyan!:
+# 💫 Hi , My Name is Kavyan
 Welcome to my corner of the internet!<br><br>🎓 Computer Science Engineering student at Pandit Deendayal Energy University (CGPA: 9.19/10).<br><br>💻 Passionate about learning and building in full-stack development while exploring DSA, competitive programming, AI, and cybersecurity.<br><br>🚀 Currently focused on improving problem-solving skills and creating impactful projects with modern web technologies.<br><br>
 
 
