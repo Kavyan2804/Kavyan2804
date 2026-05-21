@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kavyan
+# 💫 Hi , My Name is Kavyan!:
 Welcome to my corner of the internet!<br><br>🎓 Computer Science Engineering student at Pandit Deendayal Energy University (CGPA: 9.19/10).<br><br>💻 Passionate about learning and building in full-stack development while exploring DSA, competitive programming, AI, and cybersecurity.<br><br>🚀 Currently focused on improving problem-solving skills and creating impactful projects with modern web technologies.<br><br>
 
 
